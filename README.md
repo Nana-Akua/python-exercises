@@ -16,10 +16,10 @@ Each exercise lives in its own folder: `NNN-exercise-name/`
 
 This repo tracks my progress through *Python Workout* (Manning, 2nd Edition) — 200 exercises covering:
 
-- **Types** — strings, lists, tuples, dictionaries
+- **Types** 
 - **Files**
 - **Functions**
-- **Functional programming** — comprehensions, generator expressions
+- **Functional programming**
 - **Modules and packages**
 - **Objects**
 - **Iterators and generators**
