@@ -24,4 +24,6 @@ This repo tracks my progress through *Python Workout* (Manning, 2nd Edition) —
 - **Objects**
 - **Iterators and generators**
 
-As I complete exercises, I'll map specific solutions back to these competencies (starting around the 50-exercise mark).
+## Status
+
+In progress. One push per exercise.
