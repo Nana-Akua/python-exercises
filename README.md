@@ -1,0 +1,19 @@
+# Python Exercises
+
+Working through *Python Workout* (Manning) — 200 exercises, one at a time.
+Each folder contains the solution code and a flowchart mapping out the
+logic before writing it, as part of building toward hands-on machine
+learning engineering skills.
+
+## Structure
+
+Each exercise lives in its own folder: `NNN-exercise-name/`
+
+- `NNN-solution.py` — the working solution
+- `NNN-flowchart.svg` — logic flow, planned before coding
+
+## Exercises
+
+| # | Exercise | Flowchart |
+|---|----------|-----------|
+| 001 | Number Guessing Game | [view](001-number-guessing-game/001-flowchart.svg) |
