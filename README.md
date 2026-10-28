@@ -10,10 +10,20 @@ learning engineering skills.
 Each exercise lives in its own folder: `NNN-exercise-name/`
 
 - `NNN-solution.py` — the working solution
-- `NNN-flowchart.svg` — logic flow, planned before coding
+- `NNN-flowchart.svg` — logic flow, planned before coding when applicable
 
-## Exercises
+## Core Python Competencies
 
-| # | Exercise | Flowchart |
-|---|----------|-----------|
-| 001 | Number Guessing Game | [view](001-number-guessing-game/001-flowchart.svg) |
+This repo tracks my progress through *Python Workout* (Manning, 2nd Edition) — 200 exercises covering:
+
+- **Types** 
+- **Files**
+- **Functions**
+- **Functional programming**
+- **Modules and packages**
+- **Objects**
+- **Iterators and generators**
+
+## Status
+
+In progress. One push per exercise.
